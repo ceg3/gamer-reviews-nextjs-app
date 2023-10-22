@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 It uses a Strapi backend service that runs on localhost:1337
 
+see: 
+https://github.com/ceg3/gamer-reviews-nextjs-cms-app
+
 
 
 ## Getting Started
